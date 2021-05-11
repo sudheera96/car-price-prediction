@@ -3,7 +3,7 @@
 
 # Sri Sudheera Chitipolu [![](https://img.shields.io/badge/Github-Sudheera96-orange)](https://github.com/sudheera96)
 
-I am Sri Sudheera Chitipolu, currently pursuing Masters in Applied Computer Science, NWMSU, USA. Also working as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
+I am Sri Sudheera Chitipolu, pursued Masters in Applied Computer Science, NWMSU, USA. Also worked as Graduate Assistant for Computer Science Department. Consistently top performer, result oriented with a positive attitude.
 
 I am certified in 
 
